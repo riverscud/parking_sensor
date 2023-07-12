@@ -6,4 +6,4 @@ credited to aams86 https://projecthub.arduino.cc/aams86/solar-powered-led-parkin
 
 
 Prototype demonstration -
-[https://youtube.com/shorts/rNU-uMIyoso?feature=share](url)
+https://www.youtube.com/shorts/rNU-uMIyoso
