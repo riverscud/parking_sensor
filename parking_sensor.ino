@@ -19,11 +19,11 @@ float gap = 1.5;  //noise threshold for detecting movement
 Adafruit_NeoPixel strip = Adafruit_NeoPixel(N_LEDS, PIN, NEO_GRB + NEO_KHZ800);
 uint32_t white = strip.Color(255, 255, 255); //white
 uint32_t off = strip.Color(0, 0, 0);    //off
-uint32_t bG = strip.Color(15, 255, 200); //blue-green
+uint32_t bG = strip.Color(15, 255, 200); //blue-green not currently used
 uint32_t orange = strip.Color(255, 100, 0); //orange
 uint32_t red = strip.Color(255, 0, 0);  //red
 uint32_t green = strip.Color(0, 255, 0);  //green
-uint32_t blue = strip.Color(0, 0, 255);  //blue
+uint32_t blue = strip.Color(0, 0, 255);  //blue not currently used
 uint32_t yellow = strip.Color(170, 200, 0);
 
 
